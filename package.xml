@@ -1,0 +1,21 @@
+<package>
+  <name>point_cloud_transport_plugins</name>
+  <version>0.0.1</version>
+    <description>
+   placeholder
+  </description>
+  <author>Jakub Paplham</author>
+  <maintainer email="paplhjak@fel.cvut.cz">Jakub Paplham</maintainer>
+  <license>BSD</license>
+  
+  <url> www.google.com </url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>draco_point_cloud_transport</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+
+</package>
