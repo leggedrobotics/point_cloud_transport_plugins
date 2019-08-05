@@ -1,14 +1,15 @@
 <package>
   <name>point_cloud_transport_plugins</name>
-  <version>0.0.1</version>
+  <version>0.1.0</version>
     <description>
-   placeholder
+      A set of plugins for publishing and subscribing to sensor_msgs/PointCloud2 topics
+      in representations other than raw point data.
   </description>
   <author>Jakub Paplham</author>
   <maintainer email="paplhjak@fel.cvut.cz">Jakub Paplham</maintainer>
-  <license>BSD</license>
+  <license> BSD </license>
   
-  <url> www.google.com </url>
+  <url>https://github.com/paplhjak/point_cloud_transport_plugins</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
